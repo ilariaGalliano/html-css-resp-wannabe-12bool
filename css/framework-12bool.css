@@ -26,7 +26,7 @@
 }
 /* COLONNE */
 /* COLONNE MOBILE XS */
-.box> img{
+img{
   max-height: 100px;
  }
 .col-xs-1{
@@ -66,10 +66,7 @@
   }
 /* COLONNE TABLET MD */
 @media screen and (min-width: 779px){
-.box> img{
-  max-height: 150px;
- }
- .container{
+.container{
    font-size: 18px;
  }
 .col-md-1{
